@@ -996,5 +996,23 @@ var data = [{
     shape: "unknown",
     durationMinutes: "4 minutes",
     comments: "Bright orange object&#44 rapid speed and direction changes .."
+  },
+  {
+    datetime: "EASTER EGG",
+    city: "THE",
+    state: "ROOM",
+    country: "NEW ORLEANS? MAYBE?",
+    shape: "FOOTBALL",
+    durationMinutes: "TOO LONG",
+    comments: "Oh! Hi Mark! YOU ARE TEARING ME APART ELIE!!! OH HA HAHAHAHAHAHAHA"
+  },
+  {
+    datetime: "12/12/2012",
+    city: "New Brunswick",
+    state: "NJ",
+    country: "US",
+    shape: "Unknown",
+    durationMinutes: "10 Mins",
+    comments: "Fear at first sight"
   }
 ];
