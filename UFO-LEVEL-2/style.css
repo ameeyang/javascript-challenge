@@ -98,7 +98,8 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("https://cdn5.vectorstock.com/i/1000x1000/46/74/flying-ufo-vector-18054674.jpg");
+  /* background-image: url("../images/nasa.jpg"); */
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
@@ -136,15 +137,6 @@ select {
 .form-control:-moz-placeholder {
   /* Firefox 18- */
   color: #8e979f;
-}
-
-#filter-btn {
-  color:black;
-  background-color: aquamarine;
-  border: 1px solid;
-  margin-left: 45px;
-  margin-bottom: 8px;
-  
 }
 
 /* media queries which will only be activated at specific screen sizes */
